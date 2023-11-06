@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 # MMS
 
 #### 介绍
@@ -26,4 +26,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> Stashed changes
+
+
